@@ -1,6 +1,0 @@
-{
-  "name": "Mural de Segurança - CIPA",
-  "description": "Mural interativo para a campanha da CIPA, onde os trabalhadores da fábrica compartilham fotos, palavras e mensagens sobre o motivo de trabalharem com segurança.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
